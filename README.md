@@ -7,6 +7,8 @@ Hi! I'm a final year master student applying homomorphic encryption to deep lear
 - 🔭 I’m currently learning more about homomorphic encryption and deep learning :grin:
 - :heart: I love cats :heart_eyes_cat: but don't send me emails about them, I won't click on links :smirk_cat:
 - :martial_arts_uniform: Judo values
+- :books: Favourite books on [goodreads](https://www.goodreads.com/youben11)
+- :ledger: I write blog posts on [my personal website](https://www.ayoub-benaissa.com/blog/) as well as [OpenMined's blog](https://blog.openmined.org/author/ayoub/)
 
 ## Get in touch
 - Twitter: https://twitter.com/y0uben11
