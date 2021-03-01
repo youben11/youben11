@@ -1,6 +1,6 @@
 # Ayoub Benaissa - youben(11)?
 
-Hi! I'm a graduate master student, spending my time around privacy-preserving technologies, mainly working on [TenSEAL](https://github.com/OpenMined/TenSEAL) and [PySyft](https://github.com/OpenMined/PySyft) [@OpenMined](https://github.com/OpenMined). When I'm not nerding :nerd_face:, I'm probably working out :martial_arts_uniform: :weight_lifting: :wrestling: :bicyclist: :running_man: or having my cheat meal :pizza: :taco:
+Hi! I'm a Crypto Engineer at Zama, working on homomorphic encryption for the benefit of privacy in AI. When I'm not nerding :nerd_face:, I'm probably working out :martial_arts_uniform: :weight_lifting: :wrestling: :bicyclist: :running_man: or having my cheat meal :pizza: :taco:
 
 ## About me
 
